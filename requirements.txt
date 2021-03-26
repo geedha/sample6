@@ -68,6 +68,7 @@ pywinpty==0.5.7
 pyzmq==22.0.3
 requests==2.25.1
 Send2Trash==1.5.0
+simplejson==3.17.2
 six==1.15.0
 sniffio==1.2.0
 terminado==0.9.3
