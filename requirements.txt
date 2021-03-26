@@ -74,7 +74,7 @@ six==1.15.0
 sniffio==1.2.0
 terminado==0.9.3
 testpath==0.4.4
-tornado==6.1
+tornado==5
 traitlets==5.0.5
 urllib3==1.26.4
 virtualenv==20.4.2
